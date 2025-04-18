@@ -1,0 +1,10 @@
+{
+    "build": {
+      "builder": "docker",
+      "dockerfilePath": "backend/Dockerfile",
+      "context": "backend"
+    },
+    "deploy": {
+      "startCommand": "./start.sh"
+    }
+  }

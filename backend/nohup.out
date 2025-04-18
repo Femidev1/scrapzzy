@@ -1,0 +1,2348 @@
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 17 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 24 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 27 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 27 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 27 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 27 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 27 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 27 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 29 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 54 min ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 58 min ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/oakville-halton-region/motorcycle-cover/1697190740: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/oakville-halton-region/motorcycle-cover/1697190740", waiting until "load"
+
+Traceback (most recent call last):
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 153, in <module>
+    asyncio.run(main())
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 148, in main
+    await fetch_kijiji_listings()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 114, in fetch_kijiji_listings
+    listings = await process_page(context, url, cutoff)
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 60, in process_page
+    href = await link_tag.get_attribute("href")
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/async_api/_generated.py", line 1825, in get_attribute
+    return mapping.from_maybe_impl(await self._impl_obj.get_attribute(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_element_handle.py", line 72, in get_attribute
+    return await self._channel.send("getAttribute", dict(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: ElementHandle.get_attribute: Target page, context or browser has been closed
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 18 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 25 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 28 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 28 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 28 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 28 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 28 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 28 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 30 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 55 min ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 59 min ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 2 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 2 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 3 hrs ago — BMW C650GT
+⏳ Old: Posted 3 hrs ago — 1998 Honda Ace Tourer 1100cc
+⏳ Old: Posted 3 hrs ago — 2000 triumph tt600
+💾 Updated listing_history.json
+📤 Synced 0 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 22 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 30 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 32 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 32 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 32 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 32 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 32 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 32 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 34 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 59 min ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 3 hrs ago — BMW C650GT
+⏳ Old: Posted 3 hrs ago — 1998 Honda Ace Tourer 1100cc
+⏳ Old: Posted 4 hrs ago — 2000 triumph tt600
+💾 Updated listing_history.json
+📤 Synced 0 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 6 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900 — https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266
+⏳ Old: Posted 26 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 34 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 36 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 36 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 37 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 38 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/sarnia/1972-suzuki-t500j-owners-manual/1216845586: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/sarnia/1972-suzuki-t500j-owners-manual/1216845586", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⚠️ Error fetching https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266: Page.goto: net::ERR_ABORTED at https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266
+Call log:
+  - navigating to "https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266", waiting until "load"
+
+Traceback (most recent call last):
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 153, in <module>
+    asyncio.run(main())
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 148, in main
+    await fetch_kijiji_listings()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 114, in fetch_kijiji_listings
+    listings = await process_page(context, url, cutoff)
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 60, in process_page
+    href = await link_tag.get_attribute("href")
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/async_api/_generated.py", line 1825, in get_attribute
+    return mapping.from_maybe_impl(await self._impl_obj.get_attribute(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_element_handle.py", line 72, in get_attribute
+    return await self._channel.send("getAttribute", dict(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: ElementHandle.get_attribute: Target page, context or browser has been closed
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 1 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 31 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 39 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 41 min ago — 2024 KTM 350 XC-F
+✅ Fresh: Posted 1 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 42 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 43 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/sarnia/2006-harley-davidson-street-rod-sales-brochure/1216831858: Page.goto: net::ERR_ABORTED at https://www.kijiji.ca/v-motorcycle-other/sarnia/2006-harley-davidson-street-rod-sales-brochure/1216831858
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/sarnia/2006-harley-davidson-street-rod-sales-brochure/1216831858", waiting until "load"
+
+Traceback (most recent call last):
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 153, in <module>
+    asyncio.run(main())
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/asyncio/base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 148, in main
+    await fetch_kijiji_listings()
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 114, in fetch_kijiji_listings
+    listings = await process_page(context, url, cutoff)
+  File "/Users/femidavid/Desktop/scrapzyy/backend/kijiji_scraper.py", line 60, in process_page
+    href = await link_tag.get_attribute("href")
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/async_api/_generated.py", line 1825, in get_attribute
+    return mapping.from_maybe_impl(await self._impl_obj.get_attribute(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_element_handle.py", line 72, in get_attribute
+    return await self._channel.send("getAttribute", dict(name=name))
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 61, in send
+    return await self._connection.wrap_api_call(
+  File "/Users/femidavid/.pyenv/versions/3.10.5/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 528, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: ElementHandle.get_attribute: Target page, context or browser has been closed
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 5 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900 — https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266
+⏳ Old: Posted 24 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 32 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 34 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 34 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 35 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 35 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 35 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 35 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 36 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/sarnia/1972-suzuki-t500j-owners-manual/1216845586: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/sarnia/1972-suzuki-t500j-owners-manual/1216845586", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 3 hrs ago — BMW C650GT
+⏳ Old: Posted 3 hrs ago — 1998 Honda Ace Tourer 1100cc
+💾 Updated listing_history.json
+📤 Synced 1 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 29 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 37 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 39 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 39 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 39 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 39 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 39 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 39 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 41 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+⏳ Old: Posted 4 hrs ago — 1998 Honda Ace Tourer 1100cc
+💾 Updated listing_history.json
+📤 Synced 1 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 3 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+✅ Fresh: Posted 4 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 33 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 41 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 43 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 44 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 45 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 27 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 35 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 37 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 37 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 37 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 37 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 39 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+⏳ Old: Posted 4 hrs ago — 1998 Honda Ace Tourer 1100cc
+💾 Updated listing_history.json
+📤 Synced 1 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+✅ Fresh: Posted 2 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 32 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 39 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 42 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 42 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 44 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 36 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 44 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 46 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 46 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 48 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 10 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900 — https://www.kijiji.ca/v-street-cruisers-choppers/norfolk-county/2019-can-am-ryker-rally-edition-rotax-900/m9429266
+⏳ Old: Posted 30 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 37 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 40 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 40 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 40 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 40 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 40 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 40 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 42 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+⏳ Old: Posted 4 hrs ago — 1998 Honda Ace Tourer 1100cc
+💾 Updated listing_history.json
+📤 Synced 1 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 4 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+✅ Fresh: Posted 4 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 34 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 42 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 44 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 44 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 44 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 46 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 38 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 46 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 48 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 48 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 49 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 49 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 49 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 50 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+⏳ Old: Posted 4 hrs ago — 1998 Honda Ace Tourer 1100cc
+💾 Updated listing_history.json
+📤 Synced 1 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 1 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+✅ Fresh: Posted 1 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 31 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 39 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 41 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 41 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 41 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 43 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 36 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 43 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 46 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 46 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 46 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 47 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 40 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 47 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 50 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 50 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 50 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 50 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 50 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 52 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM 790 Duke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2024-ktm-790-duke/m8454109
+✅ Fresh: Posted 2 min ago — 2021 Honda CB1000R — https://www.kijiji.ca/v-sport-bikes/barrie/2021-honda-cb1000r/m8475171
+⏳ Old: Posted 32 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 40 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 42 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 42 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 42 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 44 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 1 hr ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 2 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 37 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 44 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 47 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 47 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 47 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 47 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 47 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 49 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 1 hr ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 41 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 48 min ago — 2024 KTM SX-E 3
+✅ Fresh: Posted 1 min ago — 2024 KTM 350 XC-F — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-350-xc-f/m8454110
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 51 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 53 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 3 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 38 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 45 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 48 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 48 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 48 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 48 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 48 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 50 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 1 hr ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM 350 XC-F — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-350-xc-f/m8454110
+⏳ Old: Posted 42 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 50 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 52 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 53 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 53 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 53 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 54 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 4 min ago — 2024 KTM SX-E 3 — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-sx-e-3/m6838445
+⏳ Old: Posted 27 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 47 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 57 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 59 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 40 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 48 min ago — 2024 KTM SX-E 3
+✅ Fresh: Posted 1 min ago — 2024 KTM 350 XC-F — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-350-xc-f/m8454110
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 51 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 51 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 52 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 3 min ago — 2024 KTM SX-E 3 — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-sx-e-3/m6838445
+⏳ Old: Posted 25 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 45 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 55 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 57 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 29 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 49 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 59 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 59 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 59 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 59 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 3 min ago — 2024 KTM 350 XC-F — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-350-xc-f/m8454110
+⏳ Old: Posted 43 min ago — 2023 MV Agusta Superveloce S
+✅ Fresh: Posted 1 min ago — 2024 KTM SX-E 3 — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-sx-e-3/m6838445
+⏳ Old: Posted 53 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 53 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 53 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 53 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 55 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 5 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 47 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 57 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 58 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 59 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2022 Honda CRF450RX — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2022-honda-crf450rx/m7932601
+⏳ Old: Posted 32 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 52 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM SX-E 3 — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-sx-e-3/m6838445
+✅ Fresh: Posted 4 min ago — 2024 KTM 350 XC-F — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-350-xc-f/m8454110
+⏳ Old: Posted 44 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 54 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 54 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 54 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 54 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 56 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 28 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 48 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 58 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 58 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 58 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 58 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 60 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 2 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 3 min ago — 2022 Honda CRF450RX — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2022-honda-crf450rx/m7932601
+⏳ Old: Posted 22 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 23 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 33 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 53 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 3 min ago — 2024 KTM SX-E 3 — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2024-ktm-sx-e-3/m6838445
+⏳ Old: Posted 45 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 55 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 55 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 57 min ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 1 hr ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 1 hr ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 30 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 49 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 59 min ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 60 min ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 60 min ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 60 min ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 2 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 4 min ago — 2016 Harley-Davidson FLTRUSE - CVO Road Glide Ultra — https://www.kijiji.ca/v-sport-touring/cambridge/2016-harley-davidson-fltruse-cvo-road-glide-ultra/m7617579
+✅ Fresh: Posted 4 min ago — 2022 Honda CRF450RX — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2022-honda-crf450rx/m7932601
+⏳ Old: Posted 24 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 24 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 34 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 54 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 1 min ago — 2022 Honda CRF450RX — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2022-honda-crf450rx/m7932601
+⏳ Old: Posted 31 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 51 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/sarnia/1979-yamaha-xs650-special-11-sales-brochure/1216837465: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/sarnia/1979-yamaha-xs650-special-11-sales-brochure/1216837465", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 6 min ago — 2016 Harley-Davidson FLTRUSE - CVO Road Glide Ultra — https://www.kijiji.ca/v-sport-touring/cambridge/2016-harley-davidson-fltruse-cvo-road-glide-ultra/m7617579
+⏳ Old: Posted 26 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 26 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 36 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 56 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 4 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM 690 ENDURO R SAVE $2147 RABAIS — https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128
+✅ Fresh: Posted 9 min ago — 2025 Indian Motorcycle Sport Scout Limited +Tech Black Smoke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2025-indian-motorcycle-sport-scout-limited-tech-black-smoke/m9808928
+⏳ Old: Posted 30 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 30 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 40 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 60 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 3 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+⏳ Old: Posted 4 hrs ago — BMW C650GT
+💾 Updated listing_history.json
+📤 Synced 2 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 4 min ago — 2022 Honda CRF450RX — https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2022-honda-crf450rx/m7932601
+⏳ Old: Posted 23 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 24 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 34 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 53 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 8 min ago — 2016 Harley-Davidson FLTRUSE - CVO Road Glide Ultra — https://www.kijiji.ca/v-sport-touring/cambridge/2016-harley-davidson-fltruse-cvo-road-glide-ultra/m7617579
+⏳ Old: Posted 28 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 28 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 38 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 58 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 4 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 4 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2020 Harley-Davidson FLHX Street Glide ONLY 3,300 Miles $11,000 — https://www.kijiji.ca/v-sport-touring/leamington/2020-harley-davidson-flhx-street-glide-only-3-300-miles-11-000/m9044859
+✅ Fresh: Posted 3 min ago — 2023 remeq psc-5440 tbg galvanized tandem — https://www.kijiji.ca/v-sport-touring/ottawa/2023-remeq-psc-5440-tbg-galvanized-tandem/m7930689
+✅ Fresh: Posted 3 min ago — 2007 Harley-Davidson FLHTC Electra Glide Classic SuperTrapp Exha — https://www.kijiji.ca/v-sport-touring/leamington/2007-harley-davidson-flhtc-electra-glide-classic-supertrapp-exha/m8649947
+✅ Fresh: Posted 3 min ago — 2001 Harley-Davidson FLHRCI Road King Classic Chrome Harley Whee — https://www.kijiji.ca/v-sport-touring/leamington/2001-harley-davidson-flhrci-road-king-classic-chrome-harley-whee/m10674498
+✅ Fresh: Posted 4 min ago — 2024 KTM 690 ENDURO R SAVE $2147 RABAIS — https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128
+✅ Fresh: Posted 11 min ago — 2025 Indian Motorcycle Sport Scout Limited +Tech Black Smoke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2025-indian-motorcycle-sport-scout-limited-tech-black-smoke/m9808928
+⏳ Old: Posted 22 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 32 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 33 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 43 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 6 min ago — 2016 Harley-Davidson FLTRUSE - CVO Road Glide Ultra — https://www.kijiji.ca/v-sport-touring/cambridge/2016-harley-davidson-fltruse-cvo-road-glide-ultra/m7617579
+⏳ Old: Posted 26 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 26 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 36 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 56 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 4 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2024 KTM 690 ENDURO R SAVE $2147 RABAIS — https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128
+✅ Fresh: Posted 9 min ago — 2025 Indian Motorcycle Sport Scout Limited +Tech Black Smoke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2025-indian-motorcycle-sport-scout-limited-tech-black-smoke/m9808928
+⏳ Old: Posted 30 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 31 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 40 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 60 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⚠️ Error fetching https://www.kijiji.ca/v-street-cruisers-choppers/sudbury/2003-2003-suzuki-volusia-800-as-is/m10674063: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-street-cruisers-choppers/sudbury/2003-2003-suzuki-volusia-800-as-is/m10674063", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/city-of-toronto/1979-1993-honda-xl-xr-500-650-singles-clymer-manual/1712018428: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/city-of-toronto/1979-1993-honda-xl-xr-500-650-singles-clymer-manual/1712018428", waiting until "load"
+
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 4 hrs ago — for sale 2009 Yamaha R1 Raven
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 5 min ago — 2020 Harley-Davidson FLHX Street Glide ONLY 3,300 Miles $11,000 — https://www.kijiji.ca/v-sport-touring/leamington/2020-harley-davidson-flhx-street-glide-only-3-300-miles-11-000/m9044859
+✅ Fresh: Posted 6 min ago — 2023 remeq psc-5440 tbg galvanized tandem — https://www.kijiji.ca/v-sport-touring/ottawa/2023-remeq-psc-5440-tbg-galvanized-tandem/m7930689
+✅ Fresh: Posted 6 min ago — 2007 Harley-Davidson FLHTC Electra Glide Classic SuperTrapp Exha — https://www.kijiji.ca/v-sport-touring/leamington/2007-harley-davidson-flhtc-electra-glide-classic-supertrapp-exha/m8649947
+✅ Fresh: Posted 6 min ago — 2001 Harley-Davidson FLHRCI Road King Classic Chrome Harley Whee — https://www.kijiji.ca/v-sport-touring/leamington/2001-harley-davidson-flhrci-road-king-classic-chrome-harley-whee/m10674498
+⏳ Old: Posted 23 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 25 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 35 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 36 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 46 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+⏳ Old: Posted 4 hrs ago — 2016 KAWASAKI VERSYS 650 LT ABS
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 7 min ago — 2016 Harley-Davidson FLTRUSE - CVO Road Glide Ultra — https://www.kijiji.ca/v-sport-touring/cambridge/2016-harley-davidson-fltruse-cvo-road-glide-ultra/m7617579
+⏳ Old: Posted 27 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 27 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 37 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 57 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 1 hr ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 4 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2023 remeq psc-5440 tbg galvanized tandem — https://www.kijiji.ca/v-sport-touring/ottawa/2023-remeq-psc-5440-tbg-galvanized-tandem/m7930689
+✅ Fresh: Posted 2 min ago — 2007 Harley-Davidson FLHTC Electra Glide Classic SuperTrapp Exha — https://www.kijiji.ca/v-sport-touring/leamington/2007-harley-davidson-flhtc-electra-glide-classic-supertrapp-exha/m8649947
+✅ Fresh: Posted 2 min ago — 2001 Harley-Davidson FLHRCI Road King Classic Chrome Harley Whee — https://www.kijiji.ca/v-sport-touring/leamington/2001-harley-davidson-flhrci-road-king-classic-chrome-harley-whee/m10674498
+✅ Fresh: Posted 3 min ago — 2024 KTM 690 ENDURO R SAVE $2147 RABAIS — https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128
+✅ Fresh: Posted 10 min ago — 2025 Indian Motorcycle Sport Scout Limited +Tech Black Smoke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2025-indian-motorcycle-sport-scout-limited-tech-black-smoke/m9808928
+⏳ Old: Posted 31 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 32 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 42 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⚠️ Error fetching https://www.kijiji.ca/v-street-cruisers-choppers/oakville-halton-region/2009-suzuki-boulevard-m90-immaculate/1715294981: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-street-cruisers-choppers/oakville-halton-region/2009-suzuki-boulevard-m90-immaculate/1715294981", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 3 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+💾 Updated listing_history.json
+📤 Synced 7 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 6 min ago — 2003 Harley-Davidson FXST Softail 100th Anniversary Beautiful 22 — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2003-harley-davidson-fxst-softail-100th-anniversary-beautiful-22/m9044862
+✅ Fresh: Posted 6 min ago — 2020 Harley-Davidson FLHX Street Glide ONLY 3,300 Miles $11,000 — https://www.kijiji.ca/v-sport-touring/leamington/2020-harley-davidson-flhx-street-glide-only-3-300-miles-11-000/m9044859
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 3 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 3 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 4 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 28 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 28 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 38 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 58 min ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 1 hr ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 4 hrs ago — for sale 2009 Yamaha R1 Raven
+⏳ Old: Posted 4 hrs ago — EX-250 Ninja
+⏳ Old: Posted 4 hrs ago — 2012 Harley Davidson Blackline. LOW KM
+💾 Updated listing_history.json
+📤 Synced 3 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2020 Harley-Davidson FLHX Street Glide ONLY 3,300 Miles $11,000 — https://www.kijiji.ca/v-sport-touring/leamington/2020-harley-davidson-flhx-street-glide-only-3-300-miles-11-000/m9044859
+✅ Fresh: Posted 3 min ago — 2023 remeq psc-5440 tbg galvanized tandem — https://www.kijiji.ca/v-sport-touring/ottawa/2023-remeq-psc-5440-tbg-galvanized-tandem/m7930689
+✅ Fresh: Posted 3 min ago — 2007 Harley-Davidson FLHTC Electra Glide Classic SuperTrapp Exha — https://www.kijiji.ca/v-sport-touring/leamington/2007-harley-davidson-flhtc-electra-glide-classic-supertrapp-exha/m8649947
+✅ Fresh: Posted 3 min ago — 2001 Harley-Davidson FLHRCI Road King Classic Chrome Harley Whee — https://www.kijiji.ca/v-sport-touring/leamington/2001-harley-davidson-flhrci-road-king-classic-chrome-harley-whee/m10674498
+⚠️ Error fetching https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-dirt-bikes-motocross/ottawa/2024-ktm-690-enduro-r-save-2147-rabais/m7820128", waiting until "load"
+
+✅ Fresh: Posted 11 min ago — 2025 Indian Motorcycle Sport Scout Limited +Tech Black Smoke — https://www.kijiji.ca/v-street-cruisers-choppers/cambridge/2025-indian-motorcycle-sport-scout-limited-tech-black-smoke/m9808928
+⏳ Old: Posted 23 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 33 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 33 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 43 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⚠️ Error fetching https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2025-ktm-125-sx/m10674227: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-dirt-bikes-motocross/cambridge/2025-ktm-125-sx/m10674227", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⚠️ Error fetching https://www.kijiji.ca/v-touring/barrie/parting-out-2005-bmw-k1200lt-sold-in-parts-only/1659940772: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-touring/barrie/parting-out-2005-bmw-k1200lt-sold-in-parts-only/1659940772", waiting until "load"
+
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 3 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+💾 Updated listing_history.json
+📤 Synced 7 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 7 min ago — 2003 Harley-Davidson FXST Softail 100th Anniversary Beautiful 22 — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2003-harley-davidson-fxst-softail-100th-anniversary-beautiful-22/m9044862
+✅ Fresh: Posted 8 min ago — 2009 Harley-Davidson FLHX Street Glide ONLY 1 Local Owner 44,000 — https://www.kijiji.ca/v-sport-touring/leamington/2009-harley-davidson-flhx-street-glide-only-1-local-owner-44-000/m9630691
+✅ Fresh: Posted 8 min ago — 2004 Harley-Davidson FLSTC Heritage Softail Classic Certified, N — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2004-harley-davidson-flstc-heritage-softail-classic-certified-n/m9630690
+⚠️ Error fetching https://www.kijiji.ca/v-street-cruisers-choppers/sudbury/2003-2003-suzuki-volusia-800-as-is/m10674063: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-street-cruisers-choppers/sudbury/2003-2003-suzuki-volusia-800-as-is/m10674063", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 1 hr ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 2 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+⏳ Old: Posted 3 hrs ago — 2010 Kawasaki KLR 650 stock seat
+⏳ Old: Posted 3 hrs ago — MOTORCYCLE LIFT / ATV LIFT - ATLAS HI-RISE 1500 - $2800
+⏳ Old: Posted 3 hrs ago — 2013 Suzuki GW250
+⏳ Old: Posted 4 hrs ago — for sale 2009 Yamaha R1 Raven
+💾 Updated listing_history.json
+📤 Synced 5 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 5 min ago — 2020 Harley-Davidson FLHX Street Glide ONLY 3,300 Miles $11,000 — https://www.kijiji.ca/v-sport-touring/leamington/2020-harley-davidson-flhx-street-glide-only-3-300-miles-11-000/m9044859
+✅ Fresh: Posted 5 min ago — 2023 remeq psc-5440 tbg galvanized tandem — https://www.kijiji.ca/v-sport-touring/ottawa/2023-remeq-psc-5440-tbg-galvanized-tandem/m7930689
+✅ Fresh: Posted 5 min ago — 2007 Harley-Davidson FLHTC Electra Glide Classic SuperTrapp Exha — https://www.kijiji.ca/v-sport-touring/leamington/2007-harley-davidson-flhtc-electra-glide-classic-supertrapp-exha/m8649947
+✅ Fresh: Posted 6 min ago — 2001 Harley-Davidson FLHRCI Road King Classic Chrome Harley Whee — https://www.kijiji.ca/v-sport-touring/leamington/2001-harley-davidson-flhrci-road-king-classic-chrome-harley-whee/m10674498
+⏳ Old: Posted 25 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 35 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 35 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 45 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 3 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+💾 Updated listing_history.json
+📤 Synced 8 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 9 min ago — 2003 Harley-Davidson FXST Softail 100th Anniversary Beautiful 22 — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2003-harley-davidson-fxst-softail-100th-anniversary-beautiful-22/m9044862
+✅ Fresh: Posted 10 min ago — 2009 Harley-Davidson FLHX Street Glide ONLY 1 Local Owner 44,000 — https://www.kijiji.ca/v-sport-touring/leamington/2009-harley-davidson-flhx-street-glide-only-1-local-owner-44-000/m9630691
+✅ Fresh: Posted 10 min ago — 2004 Harley-Davidson FLSTC Heritage Softail Classic Certified, N — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2004-harley-davidson-flstc-heritage-softail-classic-certified-n/m9630690
+⏳ Old: Posted 27 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 29 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 39 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 40 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 49 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 2 hrs ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 2 hrs ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 2 hrs ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 2 hrs ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 2 hrs ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 2 hrs ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 2 hrs ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+💾 Updated listing_history.json
+📤 Synced 10 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⚠️ Error fetching https://www.kijiji.ca/v-motorcycle-other/sarnia/1979-yamaha-xs650-special-11-sales-brochure/1216837465: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-motorcycle-other/sarnia/1979-yamaha-xs650-special-11-sales-brochure/1216837465", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 1 hr ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 1 hr ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+⏳ Old: Posted 2 hrs ago — 2014 Triumph Rocket III Touring
+⏳ Old: Posted 2 hrs ago — 2019 Husqvarna Motorcycles FC 450
+⏳ Old: Posted 3 hrs ago — 1979 - 1993 Honda XL/XR 500-650 Singles Clymer Manual
+💾 Updated listing_history.json
+📤 Synced 8 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 7 min ago — 2003 Harley-Davidson FXST Softail 100th Anniversary Beautiful 22 — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2003-harley-davidson-fxst-softail-100th-anniversary-beautiful-22/m9044862
+✅ Fresh: Posted 7 min ago — 2009 Harley-Davidson FLHX Street Glide ONLY 1 Local Owner 44,000 — https://www.kijiji.ca/v-sport-touring/leamington/2009-harley-davidson-flhx-street-glide-only-1-local-owner-44-000/m9630691
+✅ Fresh: Posted 7 min ago — 2004 Harley-Davidson FLSTC Heritage Softail Classic Certified, N — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2004-harley-davidson-flstc-heritage-softail-classic-certified-n/m9630690
+⏳ Old: Posted 24 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 27 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 37 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 37 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 47 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⚠️ Error fetching https://www.kijiji.ca/v-street-cruisers-choppers/oakville-halton-region/2009-suzuki-boulevard-m90-immaculate/1715294981: Page.goto: Timeout 15000ms exceeded.
+Call log:
+  - navigating to "https://www.kijiji.ca/v-street-cruisers-choppers/oakville-halton-region/2009-suzuki-boulevard-m90-immaculate/1715294981", waiting until "load"
+
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 1 hr ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 1 hr ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 1 hr ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 1 hr ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 1 hr ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 1 hr ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 2 hrs ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 2 hrs ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+⏳ Old: Posted 2 hrs ago — 2024 KTM 1290 SUPER ADVENTURE R OT SAVE $2225 RABAIS
+💾 Updated listing_history.json
+📤 Synced 11 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+✅ Fresh: Posted 2 min ago — 2022 Can-Am Ryker ONLY 7,000 KM Low $25 Week Nimble, Quick a — https://www.kijiji.ca/v-street-cruisers-choppers/leamington/2022-can-am-ryker-only-7-000-km-low-25-week-nimble-quick-a/m10674499
+⏳ Old: Posted 29 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 31 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 41 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 41 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 51 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
+⏳ Old: Posted 2 hrs ago — 2003 2003 Suzuki Volusia 800 **AS IS**
+⏳ Old: Posted 2 hrs ago — 1972 Suzuki T500J Owners Manual
+⏳ Old: Posted 2 hrs ago — 1970Honda CB 350 Owners Manual
+⏳ Old: Posted 2 hrs ago — 1979 Yamaha XS650 Special 11 Sales Brochure
+⏳ Old: Posted 2 hrs ago — 2006 Harley Davidson Street Rod Sales Brochure
+⏳ Old: Posted 2 hrs ago — Harley Davidson 1995 Motorcycles Brochure
+⏳ Old: Posted 2 hrs ago — 1974 Yamaha XS 500B Owners Manual
+⏳ Old: Posted 2 hrs ago — 1973 Honda CB 350F Owners Manual
+⏳ Old: Posted 2 hrs ago — 2014 Harley-Davidson Heritage Softail Classic ~ HERITAGE SOFTAIL
+⏳ Old: Posted 2 hrs ago — 2015 Harley-Davidson Ultra Limited **CANADIAN BIKE** **LOTS OF E
+⏳ Old: Posted 2 hrs ago — Motorcycle cover
+⏳ Old: Posted 2 hrs ago — MOTOR Yamaha 2003 Royal Star Venture 1300
+⏳ Old: Posted 2 hrs ago — parting out 2005 BMW K1200LT, sold in parts only
+⏳ Old: Posted 2 hrs ago — 2024 Honda CRF450RL
+💾 Updated listing_history.json
+📤 Synced 11 listings to frontend
+✅ Scan complete.
+
+🕓 Waiting 180 seconds before next scan...
+
+📄 Checking: https://www.kijiji.ca/b-motorcycles/ontario/c30l9004?view=list
+⏳ Old: Posted 25 min ago — 2022 Honda CRF450RX
+⏳ Old: Posted 33 min ago — 2024 KTM SX-E 3
+⏳ Old: Posted 35 min ago — 2024 KTM 350 XC-F
+⏳ Old: Posted 45 min ago — 2024 KTM 790 Duke
+⏳ Old: Posted 46 min ago — 2021 Honda CB1000R
+⏳ Old: Posted 55 min ago — 2019 Can-Am RYKER Rally Edition Rotax 900
+⏳ Old: Posted 1 hr ago — 2023 MV Agusta Superveloce S
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Scout Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Scout Sixty Bobber Limited Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 Indian Motorcycle Sport Chief RT Black Smoke
+⏳ Old: Posted 1 hr ago — 2025 KTM 125 SX
+⏳ Old: Posted 1 hr ago — 2024 Kawasaki KX250 SAVE $2007 RABAIS
+⏳ Old: Posted 1 hr ago — 2009 Suzuki Boulevard M90 – Immaculate!
+⏳ Old: Posted 1 hr ago — 2008 2008 Kawasaki Vulcan 900 Classic LT
+⏳ Old: Posted 1 hr ago — 2014 honda CTX 700 one owner low kms
